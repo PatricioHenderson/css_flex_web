@@ -33,3 +33,9 @@ section {
 /* Aquí crear los estilos para la clase avatar
  y configurar el display flex que requiere */
 
+ .avatar {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+ }
+
